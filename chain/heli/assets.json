@@ -1,0 +1,15 @@
+[
+  {
+    "denom": "uheli",
+    "type": "staking",
+    "origin_chain": "helichain",
+    "origin_denom": "uheli",
+    "origin_type": "staking",
+    "symbol": "HELI",
+    "decimals": 6,
+    "description": "Heli Staking Coin",
+    "image": "heli/asset/heli.png",
+    "coinGeckoId": "heli",
+    "color": "#FCCA27"
+  }
+]
