@@ -11,7 +11,7 @@
     "grpc_endpoint" : [
         {
             "provider": "Helichain",
-            "url": "grpc.helichain.com:9090"
+            "url": "grpc.helichain.com:443"
         }
     ],
     "about" : {
