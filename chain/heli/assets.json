@@ -9,7 +9,7 @@
     "decimals": 6,
     "description": "Heli Staking Coin",
     "image": "heli/asset/heli.png",
-    "coinGeckoId": "heli",
+    "coinGeckoId": "helichain",
     "color": "#FCCA27"
   }
 ]
